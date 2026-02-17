@@ -32,3 +32,10 @@ Control Loads: Monitor and control a bulb to demonstrate energy usage.
 
   - Arduino IDE
   - ThingSpeak account
+
+ ## 📷 Project Images
+
+![Energy Meter Setup](image1.png)
+
+![Circuit Diagram](image.png)
+
